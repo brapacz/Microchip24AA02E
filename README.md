@@ -1,6 +1,6 @@
 # Microchip24AA02E_library
 
-Library for 2K I2C Serial EEPROMs with EUI-48™ or EUI-64™ Node Identity for Arduino.
+Library for 2K I2C Serial EEPROMs with EUI-48™ or EUI-64™ Node Identity for Arduino. Supported packaging: 24AA02E48, 24AA025E48, 24AA02E64, 24AA025E64.
 
 ## Usage
 
