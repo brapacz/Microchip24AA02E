@@ -1,0 +1,4 @@
+Microchip24AA02E	KEYWORD1
+readDeviceAddress	KEYWORD2
+readMac48	KEYWORD2
+readMac64	KEYWORD2

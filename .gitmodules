@@ -1,0 +1,3 @@
+[submodule "arduino-keywords"]
+	path = arduino-keywords
+	url = https://github.com/r89m/arduino-keywords.git
