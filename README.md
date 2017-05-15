@@ -8,7 +8,6 @@ Library for 2K I2C Serial EEPROMs with EUI-48™ or EUI-64™ Node Identity for 
 #include "Microchip24AA02E.h"
 
 mac48 mac;
-Microchip24AA02E MacReader;
 
 void setup() {
   Serial.begin(9600);  // start serial for output

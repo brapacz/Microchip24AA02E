@@ -1,7 +1,6 @@
 #include "Microchip24AA02E.h"
 
 mac48 mac;
-//Microchip24AA02E MacReader;
 
 void setup() {
   Serial.begin(9600);  // start serial for output
